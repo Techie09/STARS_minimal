@@ -1,0 +1,66 @@
+﻿[
+    {
+        "studentID": "12345",
+        "FirstName": "Adam",
+        "LastName": "Applesauce",
+        "Courses": [
+            {
+                "CourseID": "SYFY-123",
+                "CourseNumber": "123",
+                "CourseName": "Fictional Statistics",
+                "CourseType": "Analytic",
+                "Credit": "3",
+                "Semester": "Fall",
+                "Year": "2033",
+                "Grade": "Alpha"
+            },
+            {
+                "CourseID": "SYFY-125",
+                "CourseNumber": "125",
+                "CourseName": "Theoretical Physics",
+                "CourseType": "Theoretical",
+                "Credit": "4",
+                "Semester": "Winter",
+                "Year": "2064",
+                "Grade": "Delta"
+            }
+        ]
+    },
+    {
+        "studentID": "543210",
+        "FirstName": "Terry",
+        "LastName": "Terminator",
+        "Courses": [
+            {
+                "CourseID": "HIST-123",
+                "CourseNumber": "123",
+                "CourseName": "History of Star Wars",
+                "CourseType": "Nuclear",
+                "Credit": "3",
+                "Semester": "Spring",
+                "Year": "2023",
+                "Grade": "Beta"
+            },
+            {
+                "CourseID": "MATH-101",
+                "CourseNumber": "101",
+                "CourseName": "Classical Calculus",
+                "CourseType": "Nuclear",
+                "Credit": "1",
+                "Semester": "Spring",
+                "Year": "2023",
+                "Grade": "Phi"
+            },
+            {
+                "CourseID": "MECH-101",
+                "CourseNumber": "101",
+                "CourseName": "Impossible Machines",
+                "CourseType": "Nuclear",
+                "Credit": "5",
+                "Semester": "Fall",
+                "Year": "2025",
+                "Grade": "Theta"
+            }
+        ]
+    }
+]
