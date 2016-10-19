@@ -1,6 +1,6 @@
 ﻿[
     {
-        "studentID": "12345",
+        "StudentID": "012345",
         "FirstName": "Adam",
         "LastName": "Applesauce",
         "Courses": [
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "studentID": "543210",
+        "StudentID": "543210",
         "FirstName": "Terry",
         "LastName": "Terminator",
         "Courses": [
